@@ -1,0 +1,6 @@
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb

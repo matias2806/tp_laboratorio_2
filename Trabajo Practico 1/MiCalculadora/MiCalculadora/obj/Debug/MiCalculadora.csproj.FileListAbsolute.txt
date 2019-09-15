@@ -1,0 +1,13 @@
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\bin\Debug\Entidades.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\TP1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
