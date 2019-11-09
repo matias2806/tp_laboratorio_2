@@ -1,0 +1,22 @@
+
+Profesor:
+Legajo :1
+Nombre: matiPrueba
+Apellido: Guardado
+Nacionalidad: Argentino
+DNI: 1234567
+
+Clase del dia: Laboratorio
+Clase del dia: Legislacion
+
+Clase: Laboratorio
+
+Alumnos: 
+
+Legajo :2
+Nombre: Gonzalo
+Apellido: Iglesias
+Nacionalidad: Argentino
+DNI: 12345678
+Clase que toma: Laboratorio
+Estado de Cuenta: AlDia
