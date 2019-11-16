@@ -51,8 +51,11 @@ namespace Entidades_2018
         /// Muestro el Changuito y TODOS los Productos
         /// </summary>
         /// <returns>un string con los datos</returns>
-        public string ToString()   
+        public override string ToString()   
         {
+
+            return this.Mostrar(this, ETipo.Todos);
+            /*
             StringBuilder sb = new StringBuilder();
 
             sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", this.productos.Count, this.espacioDisponible);
@@ -76,7 +79,7 @@ namespace Entidades_2018
                 }
             }
 
-            return sb.ToString();
+            return sb.ToString();*/
         }
         #endregion
 
@@ -92,6 +95,37 @@ namespace Entidades_2018
         public string Mostrar(Changuito c, ETipo tipo)
         {
             StringBuilder sb = new StringBuilder();
+
+            foreach (Producto item in c.productos)
+            {
+                switch (tipo)
+                {
+                    case ETipo.Dulce:
+                        if(item is Dulce)
+                        {
+                            sb.AppendLine(item.Mostrar());
+                        }
+                        break;
+                    case ETipo.Leche:
+                        if (item is Leche)
+                        {
+                            sb.AppendLine(item.Mostrar());
+                        }
+                        break;
+                    case ETipo.Snacks:
+                        if (item is Snacks)
+                        {
+                            sb.AppendLine(item.Mostrar());
+                        }
+                        break;
+                    
+                    default:
+                        sb.AppendLine(item.Mostrar());
+                        break;
+                }
+            }
+
+            /* CODIGO VIEJO
             for (int i = 0; i < c.productos.Count; i++) { 
                 if (tipo == Changuito.ETipo.Dulce)
                 {
@@ -121,7 +155,7 @@ namespace Entidades_2018
                 {
                     c.ToString();
                 }
-            }
+            }*/
             return sb.ToString();
         }
         #endregion

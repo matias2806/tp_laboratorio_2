@@ -20,9 +20,8 @@ namespace Entidades_2018
         /// <param name="marca">utiliza el constructor del base (Producto)</param>
         /// <param name="patente">utiliza el constructor del base (Producto)</param>
         /// <param name="color">utiliza el constructor del base (Producto)</param>
-        public Leche(EMarca marca, string patente, ConsoleColor color): base(patente, marca, color)
+        public Leche(EMarca marca, string patente, ConsoleColor color): this(marca,patente,color,ETipo.Entera)
         {
-            this.tipo = ETipo.Entera;
         }
 
 
@@ -33,7 +32,7 @@ namespace Entidades_2018
         /// <param name="patente">utiliza el constructor del base (Producto)</param>
         /// <param name="color">utiliza el constructor del base (Producto)</param>
         /// <param name="tipo">va a ser guardado en el atributo tipo de la clase leche</param>
-        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo) : this(marca, patente, color)
+        public Leche(EMarca marca, string patente, ConsoleColor color, ETipo tipo) : base(patente,marca,color)
         {
             this.tipo = tipo;
         }
