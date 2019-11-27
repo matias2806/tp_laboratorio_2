@@ -1,0 +1,10 @@
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\bin\Debug\Trabajo Practico 4 Matias Palmieri.exe.config
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\bin\Debug\Trabajo Practico 4 Matias Palmieri.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\bin\Debug\Trabajo Practico 4 Matias Palmieri.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\bin\Debug\Entidades.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\bin\Debug\Entidades.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\obj\Debug\Trabajo Practico 4 Matias Palmieri.csprojAssemblyReference.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\obj\Debug\Trabajo Practico 4 Matias Palmieri.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\obj\Debug\Trabajo Practico 4 Matias Palmieri.csproj.CopyComplete
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\obj\Debug\Trabajo Practico 4 Matias Palmieri.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trabajo Practico 4\Trabajo Practico 4 Matias Palmieri\Trabajo Practico 4 Matias Palmieri\obj\Debug\Trabajo Practico 4 Matias Palmieri.pdb
