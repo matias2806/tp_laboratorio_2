@@ -1,0 +1,9 @@
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Archivos.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.pdb

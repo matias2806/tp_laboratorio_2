@@ -1,0 +1,16 @@
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Palmieri.Matias_Ezequiel.2C.TP3.exe.config
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Palmieri.Matias_Ezequiel.2C.TP3.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Palmieri.Matias_Ezequiel.2C.TP3.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Archivos.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Clases Abstractas.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Clases Instanciables.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Excepciones.dll
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Archivos.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Clases Abstractas.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Clases Instanciables.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\bin\Debug\Excepciones.pdb
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\obj\Debug\Palmieri.Matias_Ezequiel.2C.TP3.csprojAssemblyReference.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\obj\Debug\Palmieri.Matias_Ezequiel.2C.TP3.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\obj\Debug\Palmieri.Matias_Ezequiel.2C.TP3.csproj.CopyComplete
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\obj\Debug\Palmieri.Matias_Ezequiel.2C.TP3.exe
+E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Palmieri.Matias_Ezequiel.2C.TP3\obj\Debug\Palmieri.Matias_Ezequiel.2C.TP3.pdb
