@@ -135,28 +135,12 @@ namespace Clases_Instanciables
         private static string MostrarDatos(Universidad uni)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("\n------------- Universidad -------------\n\n");
-            sb.AppendLine("\nLISTADO DE ALUMNOS : \n");
-            sb.AppendLine("-------------------------- \n\n");
-            foreach (Alumno item in uni.Alumnos)
-            {
-                sb.AppendLine(item.ToString() + "\n");
-            }
-            
-            sb.AppendLine("\n\nLISTADO DE PREFESORES : \n");
-            sb.AppendLine("-------------------------- \n\n");
-            foreach (Profesor item in uni.Instructores)
-            {
-                sb.AppendLine(item.ToString() + "\n");
-            }
-            
-            sb.AppendLine("\n\nLISTADO DE JORNADAS : \n");
-            sb.AppendLine("-------------------------- \n\n");
+            sb.AppendLine("JORNADA: ");
+
             foreach (Jornada item in uni.Jornadas)
             {
-                sb.AppendLine(item.ToString() + "\n");
+                sb.AppendFormat(item.ToString());
             }
-            sb.AppendLine("\n\n");
 
             return sb.ToString();
         }

@@ -128,17 +128,13 @@ namespace Clases_Instanciables
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("CLASE DE {0} POR NOMBRE COMPLETO: {1}, {2}\n", this.Clase, this.Instructor.Nombre, this.Instructor.Apellido);
-            sb.AppendFormat("NACIONALIDAD: {0}\n", this.Instructor.Nacionalidad);
-
-
-            sb.AppendFormat("{0}\n", this.Instructor.ToString());
-            sb.AppendLine("\nAlumnos: \n");
+            sb.AppendFormat("CLASE DE {0} POR : {1}", this.Clase, this.Instructor);
+            sb.AppendLine("\nALUMNOS: \n");
             foreach (Alumno item in this.Alumnos)
             {
-                sb.AppendFormat(item.ToString()); //controlar que esto ande
-                sb.AppendLine("\n\n");
+                sb.AppendFormat(item.ToString()); 
             }
+            sb.AppendLine("\n<------------------------------------------------>");
 
             return sb.ToString();
         }
@@ -159,15 +155,7 @@ namespace Clases_Instanciables
             {
                 retorno = true;
             }
-
-            /*
-            foreach (Alumno item in j.Alumnos)
-            {
-                if(a == item)
-                {
-                    retorno = true;
-                }
-            }*/
+            
             return retorno;
         }
 

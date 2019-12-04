@@ -153,10 +153,9 @@ namespace EntidadesAbstractas
            
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Nombre: {0}", this.Nombre);
-            sb.AppendFormat("\nApellido: {0}", this.apellido);
-            sb.AppendFormat("\nNacionalidad: {0}", this.Nacionalidad);
-            sb.AppendFormat("\nDNI: {0}",this.DNI);
+            sb.AppendFormat("NOMBRE COMPLETO: {0}, {1}", this.Apellido, this.Nombre);
+            sb.AppendFormat("\nNACIONALIDAD: {0}", this.Nacionalidad);
+            
             return sb.ToString();
         }
 

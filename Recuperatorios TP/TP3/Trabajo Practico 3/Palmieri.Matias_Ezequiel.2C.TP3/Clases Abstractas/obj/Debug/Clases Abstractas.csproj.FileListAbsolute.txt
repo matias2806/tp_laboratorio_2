@@ -7,3 +7,12 @@ E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequie
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

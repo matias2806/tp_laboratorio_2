@@ -11,3 +11,16 @@ E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequie
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

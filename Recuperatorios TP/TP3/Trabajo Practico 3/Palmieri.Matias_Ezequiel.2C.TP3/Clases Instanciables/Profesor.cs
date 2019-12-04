@@ -86,11 +86,7 @@ namespace Clases_Instanciables
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(base.MostrarDatos());
-            sb.AppendLine("\nCLASES DEL DIA :\n");
-            foreach (Universidad.EClases item in this.clasesDelDia)
-            {
-                sb.AppendFormat("{0}\n", item);
-            }
+            sb.AppendFormat(this.ParticiparEnClase());
             
             return sb.ToString();
         }
@@ -102,11 +98,11 @@ namespace Clases_Instanciables
         protected override string ParticiparEnClase()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine("CLASES DEL DIA .\n");
+            sb.AppendLine("CLASES DEL DIA:");
 
             foreach (Universidad.EClases item in this.clasesDelDia)
             {
-                sb.AppendFormat("{0}", item);
+                sb.AppendLine(item.ToString());
             }
             return sb.ToString();
         }
