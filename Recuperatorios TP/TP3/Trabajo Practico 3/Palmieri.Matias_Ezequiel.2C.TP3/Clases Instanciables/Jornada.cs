@@ -142,6 +142,7 @@ namespace Clases_Instanciables
 
         #region SOBRECARGA DE OPERADORES
 
+
         /// <summary>
         /// Una Jornada será igual a un Alumno si el mismo participa de la clase.
         /// </summary>
@@ -150,6 +151,18 @@ namespace Clases_Instanciables
         /// <returns>true en caso que sean iguales</returns>
         public static bool operator ==(Jornada j, Alumno a)
         {
+            return a == j.Clase;
+        }
+
+
+        /// <summary>
+        /// Una Jornada será igual a un Alumno si el mismo participa de la clase.
+        /// </summary>
+        /// <param name="j">jornada a comparar</param>
+        /// <param name="a">alumno a comparar</param>
+        /// <returns>true en caso que sean iguales</returns>
+        /*public static bool operator ==(Jornada j, Alumno a)
+        {
             bool retorno = false;
             if(a == j.Clase)
             {
@@ -157,7 +170,7 @@ namespace Clases_Instanciables
             }
             
             return retorno;
-        }
+        }*/
 
         /// <summary>
         /// Una Jornada será distinta a un Alumno si el mismo no participa de la clase.

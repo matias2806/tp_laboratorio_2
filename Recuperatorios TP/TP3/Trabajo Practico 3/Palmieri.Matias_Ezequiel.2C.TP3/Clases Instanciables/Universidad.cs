@@ -105,7 +105,33 @@ namespace Clases_Instanciables
         /// Leer de clase retornará un Universidad con todos los datos previamente serializados.
         /// </summary>
         /// <returns>una universidad con los datos ya cargados</returns>
-        public Universidad Leer()
+        public static Universidad Leer()
+        {
+            Xml<Universidad> xml = new Xml<Universidad>();
+            bool retorno = false;
+            Universidad uni = new Universidad();
+            try
+            {
+                //string fileName = AppDomain.CurrentDomain.BaseDirectory + "PruebaDeGuardarUniversidad.xml";
+
+                string[] aux = Regex.Split(Directory.GetCurrentDirectory(), @"\\Palmieri.Matias_Ezequiel.2C.TP3");
+                aux[0] += "\\Universidad.xml";
+
+                retorno = xml.Leer(aux[0], out uni);
+            }
+            catch (Exception e)
+            {
+                throw new Exception("Ocurrio un problema posiblemente en texto.guardar fijate la inner", e);
+            }
+            return uni;
+        }
+
+
+        /// <summary>
+        /// Leer de clase retornará un Universidad con todos los datos previamente serializados.
+        /// </summary>
+        /// <returns>una universidad con los datos ya cargados</returns>
+        /*public Universidad Leer()
         {
             Xml<Universidad> xml = new Xml<Universidad>();
             bool retorno = false;
@@ -124,7 +150,7 @@ namespace Clases_Instanciables
                 throw new Exception("Ocurrio un problema posiblemente en texto.guardar fijate la inner", e);
             }
             return uni;
-        }
+        }*/
 
 
         /// <summary>

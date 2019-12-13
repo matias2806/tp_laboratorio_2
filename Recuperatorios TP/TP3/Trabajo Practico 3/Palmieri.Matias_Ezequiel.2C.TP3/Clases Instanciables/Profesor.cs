@@ -57,6 +57,14 @@ namespace Clases_Instanciables
         /// </summary>
         private void _randomClases()//ANDA
         {
+            this.clasesDelDia.Enqueue((Universidad.EClases)random.Next(Enum.GetNames(typeof(Universidad.EClases)).Length));
+        }
+
+        /// <summary>
+        /// asignarán dos clases al azar al Profesor mediante el método randomClases.
+        /// </summary>
+        /*private void _randomClases()//ANDA
+        {
             for (int i = 0; i < 2; i++)
             {
                 int opcion = random.Next(0, 3);
@@ -76,7 +84,7 @@ namespace Clases_Instanciables
                         break;
                 }
             }
-        }
+        }*/
 
         /// <summary>
         /// Sobrescribir el método MostrarDatos con todos los datos del profesor.
