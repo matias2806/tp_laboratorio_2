@@ -24,3 +24,16 @@ C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

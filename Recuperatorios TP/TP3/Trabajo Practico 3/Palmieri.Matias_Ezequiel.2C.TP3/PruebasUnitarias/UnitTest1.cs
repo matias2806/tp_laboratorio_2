@@ -79,5 +79,64 @@ namespace PruebasUnitarias
             Assert.IsNotNull(universidad.Jornadas);
         }
         #endregion
+
+
+        #region Test Mios para controlar los cambio que hice en el codigo (Docente por favor no tener en cuenta)
+
+        //TIENE QUE DAR FALSE
+        [TestMethod]
+        public void CompruebaLaSobrecargaIgualIgualAlumno()
+        {
+            Alumno a = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.Deudor);
+            bool retorno = a == Universidad.EClases.Laboratorio;
+
+            Assert.AreEqual(retorno, false);
+        }
+
+        //TIENE QUE DAR TRUE
+        [TestMethod]
+        public void CompruebaLaSobrecargaIgualIgualAlumno2()
+        {
+            Alumno a = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.Becado);
+            Alumno a2 = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.AlDia);
+            bool retorno = a == Universidad.EClases.Laboratorio;
+            bool retorno2 = a2 == Universidad.EClases.Laboratorio;
+
+            Assert.AreEqual(retorno, true);
+            Assert.AreEqual(retorno2, true);
+        }
+
+        [TestMethod]
+        public void CompruebaLaSobrecargaDistintoAlumno()
+        {
+            Alumno a = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.Becado);
+           
+            bool retorno = a != Universidad.EClases.Legislacion;
+            bool retorno2 = a != Universidad.EClases.Programacion;
+            bool retorno3 = a != Universidad.EClases.SPD;
+
+            Assert.AreEqual(retorno, true);
+            Assert.AreEqual(retorno2, true);
+            Assert.AreEqual(retorno3, true);
+        }
+
+        [TestMethod]
+        public void CompruebaLaSobrecargaDistintoAlumno2()
+        {
+            Alumno a = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.Becado);
+
+            bool retorno = a != Universidad.EClases.Laboratorio;
+
+            Assert.AreEqual(retorno, false);
+        }
+
+        [TestMethod]
+        public void CompruebaLaSobrecargaDistintoAlumno3()
+        {
+            Alumno a = new Alumno(1, "mati", "palmi", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio, Alumno.EEstadoCuenta.Becado);
+            Assert.AreEqual(a != Universidad.EClases.Laboratorio, false);
+        }
+#endregion
+
     }
 }

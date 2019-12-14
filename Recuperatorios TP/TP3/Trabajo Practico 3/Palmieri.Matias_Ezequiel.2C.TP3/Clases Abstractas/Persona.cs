@@ -167,7 +167,7 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">Campo a ser llamado para otra funcion</param>
         /// <param name="dato">Dato a validar que sea numerico y su cant de caracteres</param>
         /// <returns> el DNI ya validado o no</returns>
-        private int ValidarDni(ENacionalidad nacionalidad, int dato)
+       /* private int ValidarDni(ENacionalidad nacionalidad, int dato)
         {
             
             bool nacionalidadExcep = false; //True caso de que la nacionalidad este valida false tira excepcion
@@ -184,6 +184,22 @@ namespace EntidadesAbstractas
             }
 
             return dato; 
+        }*/
+        private int ValidarDni(ENacionalidad nacionalidad, int dato)
+        {
+
+            int retorno =int.MaxValue;
+            if (this.Nacionalidad == ENacionalidad.Argentino && dato >= 1 && dato <= 89999999 ||
+                this.Nacionalidad == ENacionalidad.Extranjero && dato >= 90000000 && dato <= 99999999)
+            {
+                retorno = dato;
+            }
+            else
+            {
+                throw new NacionalidadInvalidaException("La Nacionalidad no se coicide con el numero de DNI");
+            }
+
+            return dato;
         }
 
 
@@ -194,7 +210,32 @@ namespace EntidadesAbstractas
         /// <param name="nacionalidad">Campo a ser llamado para otra funcion</param>
         /// <param name="dato">Dato a validar que sea numerico y su cant de caracteres</param>
         /// <returns> el DNI ya validado o no</returns>
-        private int ValidarDni(ENacionalidad nacionalidad,string dato)
+        private int ValidarDni(ENacionalidad nacionalidad, string dato)
+        {
+            int numero;
+
+            bool funciono = int.TryParse(dato, out numero);
+            //8 por si el dni es 40.000.000 y 7 por si es 4 millones ....
+            //permite desde el DNI 1000000 hasta el 99999999
+            if (funciono == true && dato.Count() <= 8 && dato.Count() >= 7)
+            {
+                numero = this.ValidarDni(nacionalidad, numero);
+            }
+            else
+            {
+                throw new DniInvalidoException();
+            }
+            return numero;
+        }
+
+        /// <summary>
+        /// Valida que el dato pasado sea un numero tambien valida la cantidad de caracteres permitidos un dni puede tener 7 o 8 caracteres
+        /// Este metodo puede lanzar un error del tipo "DniInvalidoException"
+        /// </summary>
+        /// <param name="nacionalidad">Campo a ser llamado para otra funcion</param>
+        /// <param name="dato">Dato a validar que sea numerico y su cant de caracteres</param>
+        /// <returns> el DNI ya validado o no</returns>
+        /*private int ValidarDni(ENacionalidad nacionalidad,string dato)
         {
             int numero;
       
@@ -216,7 +257,7 @@ namespace EntidadesAbstractas
                 throw new DniInvalidoException();
             }
             return numero;
-        }
+        }*/
 
         /// <summary>
         /// Validará que los nombres sean cadenas con caracteres válidos para nombres. Caso contrario, no se cargará.

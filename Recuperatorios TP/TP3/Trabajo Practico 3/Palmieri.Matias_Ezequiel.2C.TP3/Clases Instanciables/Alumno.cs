@@ -99,7 +99,7 @@ namespace Clases_Instanciables
         /// <param name="a">Alumno a comparar</param>
         /// <param name="clase">Clase a comparar</param>
         /// <returns>Un boleano true si se cumple la condicion</returns>
-        public static bool operator ==(Alumno a, Universidad.EClases clase)
+       /* public static bool operator ==(Alumno a, Universidad.EClases clase)
         {
             bool retorno = false;
             if(a.claseQueToma == clase && a.estadoCuenta != EEstadoCuenta.Deudor)
@@ -107,6 +107,18 @@ namespace Clases_Instanciables
                 retorno = true;
             }
             return retorno;
+        }*/
+
+
+        /// <summary>
+        /// Un Alumno será igual a un EClase si toma esa clase y su estado de cuenta no es Deudor.
+        /// </summary>
+        /// <param name="a">Alumno a comparar</param>
+        /// <param name="clase">Clase a comparar</param>
+        /// <returns>Un boleano true si se cumple la condicion</returns>
+        public static bool operator ==(Alumno a, Universidad.EClases clase)
+        {
+            return !(a!= clase) && a.estadoCuenta != EEstadoCuenta.Deudor;
         }
 
         /// <summary>
@@ -117,13 +129,30 @@ namespace Clases_Instanciables
         /// <returns></returns>
         public static bool operator !=(Alumno a, Universidad.EClases clase)
         {
+            bool retorno = false;
+            if (a.claseQueToma != clase)
+            {
+                retorno = true;
+            }
+            return retorno;
+        }
+
+
+        /// <summary>
+        /// Un Alumno será distinto a un EClase sólo si no toma esa clase.
+        /// </summary>
+        /// <param name="a">Alumno a comparar</param>
+        /// <param name="clase">Clase a comparar</param>
+        /// <returns></returns>
+        /*public static bool operator !=(Alumno a, Universidad.EClases clase)
+        {
             bool retorno = true;
             if(a.claseQueToma != clase)
             {
                 retorno = false;
             }
             return retorno;
-        }
+        }*/
         #endregion
 
         #region ENUMERADO

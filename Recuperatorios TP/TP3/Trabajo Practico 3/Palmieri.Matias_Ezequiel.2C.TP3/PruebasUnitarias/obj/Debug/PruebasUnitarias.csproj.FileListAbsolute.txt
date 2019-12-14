@@ -23,3 +23,25 @@ C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Clases Instanciables.pdb
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Excepciones.pdb
 C:\Users\CPALMIER\Desktop\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Archivos.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\PruebasUnitarias.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\PruebasUnitarias.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Clases Abstractas.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Clases Instanciables.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Excepciones.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Archivos.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Clases Abstractas.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Clases Instanciables.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Excepciones.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\bin\Debug\Archivos.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\obj\Debug\PruebasUnitarias.csprojAssemblyReference.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CoreCompileInputs.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\obj\Debug\PruebasUnitarias.csproj.CopyComplete
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\obj\Debug\PruebasUnitarias.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\PruebasUnitarias\obj\Debug\PruebasUnitarias.pdb
