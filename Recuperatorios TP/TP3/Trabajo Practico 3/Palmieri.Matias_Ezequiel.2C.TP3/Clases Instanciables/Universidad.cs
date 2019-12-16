@@ -82,7 +82,7 @@ namespace Clases_Instanciables
         /// </summary>
         /// <param name="uni">universidad a ser guardada</param>
         /// <returns>true si funciono</returns>
-        public static bool Guardar(Universidad uni)
+       /* public static bool Guardar(Universidad uni)
         {
             Xml<Universidad> xml = new Xml<Universidad>();
             bool retorno = false;
@@ -99,6 +99,22 @@ namespace Clases_Instanciables
                 throw new Exception("Ocurrio un problema posiblemente en texto.guardar fijate la inner", e);
             }
             return true;
+        }*/
+
+        /// <summary>
+        /// Guardar de clase serializará los datos del Universidad en un XML, incluyendo todos los datos de sus Profesores, Alumnos y Jornadas.
+        /// </summary>
+        /// <param name="uni">universidad a ser guardada</param>
+        /// <returns>true si funciono</returns>
+        public static bool Guardar(Universidad uni)
+        {
+            Xml<Universidad> xml = new Xml<Universidad>();
+            string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + ".\\Universidad.xml";
+            if(xml.Guardar(archivo, uni))
+            {
+                return true;
+            }
+            return false;
         }
 
         /// <summary>
@@ -106,6 +122,20 @@ namespace Clases_Instanciables
         /// </summary>
         /// <returns>una universidad con los datos ya cargados</returns>
         public static Universidad Leer()
+        {
+            Xml<Universidad> xml = new Xml<Universidad>();
+            string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + ".\\Universidad.xml";
+            if(xml.Leer(archivo, out Universidad uni))
+            {
+                return uni;
+            }
+            return uni;
+        }
+        /// <summary>
+        /// Leer de clase retornará un Universidad con todos los datos previamente serializados.
+        /// </summary>
+        /// <returns>una universidad con los datos ya cargados</returns>
+        /*public static Universidad Leer()
         {
             Xml<Universidad> xml = new Xml<Universidad>();
             bool retorno = false;
@@ -124,7 +154,7 @@ namespace Clases_Instanciables
                 throw new Exception("Ocurrio un problema posiblemente en texto.guardar fijate la inner", e);
             }
             return uni;
-        }
+        }*/
 
 
         /// <summary>

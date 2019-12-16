@@ -76,7 +76,7 @@ namespace Clases_Instanciables
         /// </summary>
         /// <param name="jornada">Jornada a ser guardada</param>
         /// <returns></returns>
-        public static bool Guardar(Jornada jornada)
+        /*public static bool Guardar(Jornada jornada)
         {
             Texto texto = new Texto();
             bool retorno = false;
@@ -95,6 +95,22 @@ namespace Clases_Instanciables
                 throw new Exception("Ocurrio un problema posiblemente en texto.leer fijate la inner", e);
             }
             return retorno; 
+        }*/
+
+        /// <summary>
+        /// Guardar de clase guardará los datos de la Jornada en un archivo de texto.
+        /// </summary>
+        /// <param name="jornada">Jornada a ser guardada</param>
+        /// <returns></returns>
+        public static bool Guardar(Jornada jornada)
+        {
+            Texto texto = new Texto();
+            string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + ".\\Jornada.txt";
+            if(texto.Guardar(archivo, jornada.ToString()))
+            {
+                return true;
+            }
+            return false;
         }
 
 
@@ -103,6 +119,22 @@ namespace Clases_Instanciables
         /// </summary>
         /// <returns>Un string con los datos de una jornada</returns>
         public static string Leer()
+        {
+            
+            Texto texto = new Texto();
+            string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + ".\\Jornada.txt";
+            if(texto.Leer(archivo, out string jornada))
+            {
+                return jornada;
+            }
+            return jornada;
+        }
+
+        /// <summary>
+        /// Leer de clase retornará los datos de la Jornada como texto.
+        /// </summary>
+        /// <returns>Un string con los datos de una jornada</returns>
+       /* public static string Leer()
         {
             string datosLeidos;
             Texto texto = new Texto();
@@ -118,7 +150,7 @@ namespace Clases_Instanciables
             }
 
             return datosLeidos;
-        }
+        }*/
 
 
         /// <summary>

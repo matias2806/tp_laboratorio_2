@@ -7,3 +7,12 @@ E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequie
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.dll
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Archivos.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Archivos\obj\Debug\Archivos.pdb

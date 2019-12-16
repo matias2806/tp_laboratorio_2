@@ -4,3 +4,9 @@ E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequie
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
 E:\PROGRAMACION II SDO INTENTO\TRABAJOS PRACTICOS\Trab 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\TP3\Trabajo Practico 3\Palmieri.Matias_Ezequiel.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
